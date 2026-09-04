@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "releaseTag": "v01-00-00",
-  "generatedAt": "2026-09-04T17:20:12.210390Z",
+  "releaseTag": "v01_00_00",
+  "generatedAt": "2026-09-04T17:29:21.500401Z",
   "assets": [
     {
       "file": "CCMEC_template.tar.gz",

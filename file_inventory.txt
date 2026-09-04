@@ -266,5 +266,6 @@ scripts/update_readme_filelist.py Y
 weightAMUdistribution/F1txtfile.txt Y
 weightAMUdistribution/F2txtfile.txt Y
 weightAMUdistribution/F3txtfile.txt Y
+weightAMUdistribution/README.md Y
 weightAMUdistribution/weightAMUDIStest.cxx N
 weightAMUdistribution/weightAMUvariations.h N
