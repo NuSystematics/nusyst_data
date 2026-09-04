@@ -28,7 +28,7 @@ README](../README.md) for the full download options (fetching everything,
 fetching into a different destination, or doing it by hand with `curl`).
 
 <!-- nusyst_data:filelist:start -->
-**Files in this release (v01_00_00)** — regenerated automatically by `scripts/package_data_release.sh`; do not edit by hand.
+**Files in this release (v01_01_00)** — regenerated automatically by `scripts/package_data_release.sh`; do not edit by hand.
 
 ```
 reweight_data_v3_04_02a_to_v3_06_02_sbn2_CCQE_nue_0.20GeV_flat.root

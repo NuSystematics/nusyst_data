@@ -1,67 +1,73 @@
 {
   "schemaVersion": 1,
-  "releaseTag": "v01_00_00",
-  "generatedAt": "2026-09-04T17:29:21.500401Z",
+  "releaseTag": "v01_01_00",
+  "generatedAt": "2026-09-04T20:57:09.034666Z",
   "assets": [
     {
       "file": "CCMEC_template.tar.gz",
       "extract_to": "CCMEC_template",
-      "sha256": "b42a93cf49bc911b4662474aba380ea0355b0d62af2546877f445ff609a196e0",
-      "bytes": 134871864
+      "sha256": "4ed1afc469f10652adce9a2e7ae3ed980ff08e9b18bc93fc8c7345e53c65c4e9",
+      "bytes": 134871877
     },
     {
       "file": "CCQERPAReweight.tar.gz",
       "extract_to": "CCQERPAReweight",
-      "sha256": "09b4d06fa43c3e3fb0631ecd2bf512b790da824efd963a43f6483fd4cb1f15bd",
-      "bytes": 53786901
+      "sha256": "c9cb29f24d082f3577f64c15cf6c1df7f6cb47126c3f96041d8aedcd00371b9a",
+      "bytes": 53786899
     },
     {
       "file": "CCQEReweight.tar.gz",
       "extract_to": "CCQEReweight",
-      "sha256": "d40bdca7af2740f84cf40c7aa6274bb11eeb916926d8017caee86703a72cfcbe",
-      "bytes": 6351308
+      "sha256": "ef1c44ee2bb16a859d628116dda1a2f9479b9ade1438a988b5b944c1bfe49767",
+      "bytes": 6351297
     },
     {
       "file": "FSI.tar.gz",
       "extract_to": "FSI",
-      "sha256": "94f937991441af2a6827fdec327355e0a6d5d673ac218f49e9df2cc740527185",
-      "bytes": 1331980
+      "sha256": "fc1a4dfe8cc20da2b87490df713ea4c42e97f30fa375b6db6f4094d522c041dd",
+      "bytes": 1331903
     },
     {
       "file": "PionAbsWeighter.tar.gz",
       "extract_to": "PionAbsWeighter",
-      "sha256": "4f8ef8448749f32514ecd6f804b3a9df324f7c912e88e5553486122eb96c563e",
-      "bytes": 46171
+      "sha256": "674713bea1e84261228bddfa9cfba0fd15fbee3e9de209ecfdab56533a572034",
+      "bytes": 46161
     },
     {
       "file": "QEFix.part01.tar.gz",
       "extract_to": "QEFix",
-      "sha256": "e8b488755c2db57fce5c5ced258a939a2225e04b7da85569a07552a000ef5465",
-      "bytes": 1593976016
+      "sha256": "9874e3980cb2ccc7387d23a468ec4621987f3bb12435e4fe1e1c8176b0aa3ee2",
+      "bytes": 1593975458
     },
     {
       "file": "QEFix.part02.tar.gz",
       "extract_to": "QEFix",
-      "sha256": "4c8d5b751b8a8e2bfd6e416ccac35ef77b96eb6e067b9939b037200da771dc57",
-      "bytes": 1581219028
+      "sha256": "9a9bd8d08c699640ea2cef49ab54eca11456b9db2a64370b18fd0f5b5f2b76ca",
+      "bytes": 1581218595
     },
     {
       "file": "QEFix.part03.tar.gz",
       "extract_to": "QEFix",
-      "sha256": "999489971d2749b25c5ecd5981709a4021bee9fb3cdde679ef3577157161f61c",
-      "bytes": 1598248612
+      "sha256": "24c685c28f82716b3e86a555271c3aaed7e0eebc864c1f8b424ffbc5639d8e44",
+      "bytes": 1598247412
     },
     {
       "file": "QEFix.part04.tar.gz",
       "extract_to": "QEFix",
-      "sha256": "d16e219fc7a1a1778aa9add3405e664344ae32c1693c883247851c6232fb7290",
-      "bytes": 918253272
+      "sha256": "360b2df5b3f9adb15a3f6fcbb4c93c65d2cf4717a3cd8300a7c557a177d1e14b",
+      "bytes": 918253253
+    },
+    {
+      "file": "QEInterference.tar.gz",
+      "extract_to": "QEInterference",
+      "sha256": "681d956cbe0b0788ddefd9c338eb6dd440688f99e65245595e1699ddd44011ae",
+      "bytes": 5136328
     },
     {
       "file": "weightAMUdistribution.tar.gz",
       "extract_to": "weightAMUdistribution",
-      "sha256": "15a91d8b9e6848bd6977a99428283004e5161661472a126321e86f93cbcaba0e",
-      "bytes": 14388
+      "sha256": "2f12bd136f44dd382c4d59249260fe5c96872055267aaf28c4e92e35d31017e1",
+      "bytes": 14369
     }
   ]
 }
