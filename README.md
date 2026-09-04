@@ -79,6 +79,7 @@ Download it, check its sha256 against `manifest.json`, and untar it into
 | [FSI/](FSI/) | FSI reweighting templates, plus `CombineMultAndDiff.py` (tracked normally) | yes |
 | [PionAbsWeighter/](PionAbsWeighter/) | Pion absorption reweighting templates | yes |
 | [QEFix/](QEFix/) | QE fix reweighting templates | yes |
+| [QEInterference/](QEInterference/) | QE interference reweighting templates | yes |
 | [ValenciaExc2p2hReweighter/](ValenciaExc2p2hReweighter/) | Valencia exclusive 2p2h reweighter config | no — small files, tracked normally in git |
 | [weightAMUdistribution/](weightAMUdistribution/) | AMU distribution weighting source/inputs | no — small files, tracked normally in git |
 
