@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "releaseTag": "v01-00-00",
+  "generatedAt": "2026-09-04T17:20:12.210390Z",
+  "assets": [
+    {
+      "file": "CCMEC_template.tar.gz",
+      "extract_to": "CCMEC_template",
+      "sha256": "b42a93cf49bc911b4662474aba380ea0355b0d62af2546877f445ff609a196e0",
+      "bytes": 134871864
+    },
+    {
+      "file": "CCQERPAReweight.tar.gz",
+      "extract_to": "CCQERPAReweight",
+      "sha256": "09b4d06fa43c3e3fb0631ecd2bf512b790da824efd963a43f6483fd4cb1f15bd",
+      "bytes": 53786901
+    },
+    {
+      "file": "CCQEReweight.tar.gz",
+      "extract_to": "CCQEReweight",
+      "sha256": "d40bdca7af2740f84cf40c7aa6274bb11eeb916926d8017caee86703a72cfcbe",
+      "bytes": 6351308
+    },
+    {
+      "file": "FSI.tar.gz",
+      "extract_to": "FSI",
+      "sha256": "94f937991441af2a6827fdec327355e0a6d5d673ac218f49e9df2cc740527185",
+      "bytes": 1331980
+    },
+    {
+      "file": "PionAbsWeighter.tar.gz",
+      "extract_to": "PionAbsWeighter",
+      "sha256": "4f8ef8448749f32514ecd6f804b3a9df324f7c912e88e5553486122eb96c563e",
+      "bytes": 46171
+    },
+    {
+      "file": "QEFix.part01.tar.gz",
+      "extract_to": "QEFix",
+      "sha256": "e8b488755c2db57fce5c5ced258a939a2225e04b7da85569a07552a000ef5465",
+      "bytes": 1593976016
+    },
+    {
+      "file": "QEFix.part02.tar.gz",
+      "extract_to": "QEFix",
+      "sha256": "4c8d5b751b8a8e2bfd6e416ccac35ef77b96eb6e067b9939b037200da771dc57",
+      "bytes": 1581219028
+    },
+    {
+      "file": "QEFix.part03.tar.gz",
+      "extract_to": "QEFix",
+      "sha256": "999489971d2749b25c5ecd5981709a4021bee9fb3cdde679ef3577157161f61c",
+      "bytes": 1598248612
+    },
+    {
+      "file": "QEFix.part04.tar.gz",
+      "extract_to": "QEFix",
+      "sha256": "d16e219fc7a1a1778aa9add3405e664344ae32c1693c883247851c6232fb7290",
+      "bytes": 918253272
+    },
+    {
+      "file": "weightAMUdistribution.tar.gz",
+      "extract_to": "weightAMUdistribution",
+      "sha256": "15a91d8b9e6848bd6977a99428283004e5161661472a126321e86f93cbcaba0e",
+      "bytes": 14388
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# FSI
+
+FSI reweighting templates, plus `CombineMultAndDiff.py` (tracked normally in
+git — it's source, not data).
+
+## The `*.root` files here are not in git
+
+They're marked `N` in [file_inventory.txt](../file_inventory.txt) (bundled
+into a release tarball instead of committed) — see
+[manifest.json](../manifest.json) at the repo root (`extract_to: "FSI"`).
+The exact list of files currently included is below (regenerated
+automatically whenever the release is rebuilt — don't edit that section by
+hand).
+
+## Downloading just this directory
+
+From the repo root:
+
+```bash
+scripts/download_data.sh -o FSI
+```
+
+This downloads the asset(s) listed in `manifest.json` for this directory,
+verifies their sha256, and extracts them here. See the [repo root
+README](../README.md) for the full download options (fetching everything,
+fetching into a different destination, or doing it by hand with `curl`).
+
+<!-- nusyst_data:filelist:start -->
+**Files in this release (v01-00-00)** — regenerated automatically by `scripts/package_data_release.sh`; do not edit by hand.
+
+```
+FSI_Evis_reweight_template.root
+FSI_KOAbs_Diff_reweight_template.root
+FSI_KOAbs_Evis_reweight_template.root
+FSI_KOAbs_Mult_reweight_template.root
+FSI_KOAbs_hA2018rwNucl_templates.root
+FSI_KOAbs_reweight_template.root
+```
+<!-- nusyst_data:filelist:end -->
